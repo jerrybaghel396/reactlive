@@ -1,0 +1,22 @@
+.another {
+    border: 2px solid yellowgreen;
+}
+
+
+.container{
+    background-color: antiquewhite;
+}
+
+
+.size{
+    font-size: larger;
+}
+
+
+.btn {
+    border-radius: 12px;
+    background-color: #a39293;
+    width: 20%;
+    height: 50px;
+    margin: 12px
+}
